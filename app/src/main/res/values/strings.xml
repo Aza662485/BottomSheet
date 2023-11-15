@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomSheet</string>
+    <string name="badBoys">BAD BOYS</string>
+    <string name="actors">WILL SMIT AND MARTYN lOWRENCE</string>
+    <string name="longMovies">120 min</string>
+    <string name="play">play</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
